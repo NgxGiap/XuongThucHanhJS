@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Gấu Cưỡi Xe",
+      "image": "https://cdn.fbsbx.com/v/t59.2708-21/363504775_760974432465065_3839748016332385339_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeG346MwRiEazkD0azvpPomBjwgTRLD7uZSPCBNEsPu5lB_9z7RxCjJxDRUFoF9E9x71ADzxdMThuzZ8RABuK0GD&_nc_ohc=hc-qIFxpUQsQ7kNvgFIrLzS&_nc_ht=cdn.fbsbx.com&_nc_gid=Aer6rfvHnce761x_8gXN-Zk&oh=03_Q7cD1QFr0-NosrlwEqwjMLS0ytIK_Cet_84O40LuA375dk-m-Q&oe=670D779D",
+      "price": "150000",
+      "description": "2 con Gấu",
+      "id": 1
+    },
+    {
+      "name": "Gấu Cưỡi Xe",
+      "image": "https://cdn.fbsbx.com/v/t59.2708-21/363504775_760974432465065_3839748016332385339_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeG346MwRiEazkD0azvpPomBjwgTRLD7uZSPCBNEsPu5lB_9z7RxCjJxDRUFoF9E9x71ADzxdMThuzZ8RABuK0GD&_nc_ohc=hc-qIFxpUQsQ7kNvgFIrLzS&_nc_ht=cdn.fbsbx.com&_nc_gid=AX52eDQRSjTMeEB0v-GyB7n&oh=03_Q7cD1QGFzTfymJeUSFSH6jTTHJ9MrYBxasm-ZIoxqK1qNKJx8w&oe=670DE81D",
+      "price": "150000",
+      "description": "2 con Gấu",
+      "id": 2
+    },
+    {
+      "name": "Gấu Cưỡi Xe",
+      "image": "https://cdn.fbsbx.com/v/t59.2708-21/363504775_760974432465065_3839748016332385339_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeG346MwRiEazkD0azvpPomBjwgTRLD7uZSPCBNEsPu5lB_9z7RxCjJxDRUFoF9E9x71ADzxdMThuzZ8RABuK0GD&_nc_ohc=hc-qIFxpUQsQ7kNvgFIrLzS&_nc_ht=cdn.fbsbx.com&_nc_gid=AX52eDQRSjTMeEB0v-GyB7n&oh=03_Q7cD1QGFzTfymJeUSFSH6jTTHJ9MrYBxasm-ZIoxqK1qNKJx8w&oe=670DE81D",
+      "price": "150000",
+      "description": "2 con Gấu",
+      "id": 3
+    },
+    {
+      "name": "Gấu Cưỡi Xe",
+      "image": "https://cdn.fbsbx.com/v/t59.2708-21/363504775_760974432465065_3839748016332385339_n.gif?_nc_cat=100&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeG346MwRiEazkD0azvpPomBjwgTRLD7uZSPCBNEsPu5lB_9z7RxCjJxDRUFoF9E9x71ADzxdMThuzZ8RABuK0GD&_nc_ohc=hc-qIFxpUQsQ7kNvgFIrLzS&_nc_ht=cdn.fbsbx.com&_nc_gid=AX52eDQRSjTMeEB0v-GyB7n&oh=03_Q7cD1QGFzTfymJeUSFSH6jTTHJ9MrYBxasm-ZIoxqK1qNKJx8w&oe=670DE81D",
+      "price": "150000",
+      "description": "2 con Gấu",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "nguyenvangiap2005.giaothuy@gmail.com",
+      "password": "$2a$10$m0XaEacphWklVajQjRgYzOUoB9BdIGkk9X3j1gKWa0PSsXTuPjYla",
+      "name": "Nguyễn Văn Giáp",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "nguyenvangiap215@gmail.com",
+      "password": "$2a$10$RMVdYyUrlPSATYcj.NEVwe/eGU0lf4I7ywq4G91/WpxCmNISYxC..",
+      "name": "Nguyễn Văn Giáp",
+      "role": "admin",
+      "id": 3
+    }
+  ]
+}
